@@ -1,3 +1,15 @@
+target
+.classpath
+.project
+.settings
+.vagrant
+.idea
+*.iml
+*.bat
+*.versionsBackup
+*.log
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

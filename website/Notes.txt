@@ -1,0 +1,14 @@
+# Part 1
+Learned to install django
+easy_install django
+
+# Part 2
+
+# Part 3
+Created a django project
+django-admin startproject website
+
+# Part 4
+We created a app with command
+python manage.py startapp music
+
